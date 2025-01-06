@@ -1,3 +1,8 @@
+# Below is the QA Wolf application detail.  
+This is just a simple script that does what's asked. I didn't go above and beyond because this took about an hour and meets the requirements. Ah, that's not actually true is it. I added Github Actions and some code management tools as if this was a real project that could be run as part of a CI/CD workflow, professional like and all that.  
+Anyway, based on the task and my experience running into this company at a contracting gig where I was testing the mclient mobile app, the companies contracting with QA Wolf would probably be better served bringing in a hands on consultant to implement a framework and train internal testers. QA coverage as a service using only Playwright is a bit sus in my opinon, and their 'total coverage' claim is just bloviating. Test coverage should provide value, not lots of redundant, repetitive test coverage to say you are 100% covered.  
+Feel free to use this as a baseline for your application solution and add some bells and whistles to submit an 'above and beyond' sample to this outfit. Good Luck.
+
 # 🐺 QA Wolf Take Home Assignment
 
 Welcome to the QA Wolf take home assignment for our [QA Engineer](https://www.task-wolf.com/apply-qae) role! We appreciate your interest and look forward to seeing what you come up with.
