@@ -2,8 +2,12 @@
 This is just a simple script that does what's asked. I didn't go above and beyond because this took about an hour and meets the requirements.  
   
 Ah, that's not actually true is it. I added Github Actions and some code management tools as if this was a real project that could be run as part of a CI/CD workflow, professional like and all that.  
-Anyway, based on the task and my experience running into this company at a contracting gig where I was testing the client mobile app (because QA Wolf only use Playwright), the companies contracting with QA Wolf would probably be better served bringing in a hands on consultant to implement a framework and train internal testers to build out the appropriate coverage. Automated QA testing as a service using only Playwright is a bit sus in my opinon, and their 'total coverage' claim is just bloviating. Test coverage should provide value, not lots of redundant, repetitive test coverage to say you are 100% covered. It was also my experience that performance testing was not a part of their services as I had to write my own api tests to validate mobile behaviors with the api and the results were inconsistent at best. 
-Feel free to use this as a baseline for your application solution and add some bells and whistles to submit an 'above and beyond' sample to this outfit.   
+  
+Anyway, based on the task and my experience running into QA Wolf at a contracting gig where I was testing the client's mobile app (because QA Wolf only use Playwright and apparently doesn't test on devices? might have just been the client so I can't say for sure), the companies contracting with QA Wolf would probably be better served bringing in a hands on consultant to implement a framework and train internal testers to build out the appropriate coverage.  
+  
+Automated QA testing as a service using only Playwright is a bit sus in my opinon, and their 'total coverage' claim is just bloviating. Test coverage should provide value, not lots of redundant, repetitive test coverage to say you are 100% covered. It was also my experience that performance testing was not a part of their services as I had to write my own api tests to validate mobile behaviors with the api and the results were inconsistent at best. 
+  
+Feel free to use this as a baseline for your application solution to QA Wolf and add some bells and whistles to submit an 'above and beyond' sample to this outfit.   
   
 Good Luck.
 
