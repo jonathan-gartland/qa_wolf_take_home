@@ -1,3 +1,5 @@
+[![Node.js CI](https://github.com/jonathan-gartland/qa_wolf_take_home/actions/workflows/node.js.yml/badge.svg)](https://github.com/jonathan-gartland/qa_wolf_take_home/actions/workflows/node.js.yml)  
+---  
 # Below is the QA Wolf application detail.  
 This is just a simple script that does what's asked. I didn't go above and beyond because this took about an hour and meets the requirements.  
   
